@@ -1,0 +1,7 @@
+C:\Users\samue\source\repos\Hangman Gone Textual\Hangman Gone Textual\obj\Debug\Hangman Gone Textual.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Hangman Gone Textual\Hangman Gone Textual\obj\Debug\Hangman Gone Textual.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Hangman Gone Textual\Hangman Gone Textual\bin\Debug\Hangman Gone Textual.exe.config
+C:\Users\samue\source\repos\Hangman Gone Textual\Hangman Gone Textual\bin\Debug\Hangman Gone Textual.exe
+C:\Users\samue\source\repos\Hangman Gone Textual\Hangman Gone Textual\bin\Debug\Hangman Gone Textual.pdb
+C:\Users\samue\source\repos\Hangman Gone Textual\Hangman Gone Textual\obj\Debug\Hangman Gone Textual.exe
+C:\Users\samue\source\repos\Hangman Gone Textual\Hangman Gone Textual\obj\Debug\Hangman Gone Textual.pdb
